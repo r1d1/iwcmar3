@@ -27,9 +27,12 @@ body {
   line-height: 1.6;
   padding-top: 10px;
   padding-bottom: 10px;
-  background-color: white;
+  background-color: #FFFFFF;
   padding: 30px;
   color: #333;
+  width: 900px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 body > *:first-child {
@@ -132,6 +135,7 @@ h6 {
 
 p, blockquote, ul, ol, dl, li, table, pre {
   margin: 15px 0;
+  background-color: #EEEEEE;
 }
 
 hr {
@@ -407,3 +411,4 @@ pre code, pre tt {
   background-color: transparent;
   border: none;
 }
+  
