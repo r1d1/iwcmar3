@@ -8,7 +8,7 @@ ICRA 2020, Paris
 
 ### Previous editions
 
-- [IWCMAR @ R:SS 2018](https://afford.gitlab.io/)
+- [IWCMAR @ R:SS 2018](https://afford.gitlab.io/rss-workshop/)
 - [IWCMAR 2 @ ICRA 2019](https://r1d1.github.io/iwcmar/)
 
 ### Topics
