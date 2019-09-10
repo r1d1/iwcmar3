@@ -1,19 +1,49 @@
-# Proposal: 3rd International Workshop on Computational Models of Affordance in Robotics
-
-ICRA 2020, Paris
-
-
-### Description
+<div id="mainblock">
+<!-- ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1") -->
+![](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Banner image")
 
 
-### Previous editions
+# [Proposal]<br />3rd International Workshop on<br />Computational Models of Affordance in Robotics
+
+### 31 May or 04 June 2020, ICRA 2020, Paris, France
+
+## Description
+
+Affordance is one of the key concepts that might enable an autonomous agent to interact with a variety of novel objects successfully. The concept was coined by the psychologist James J. Gibson, nonetheless, many others in his field have re-defined it in an attempt to generalise it to different contextualisations.
+When transferring the affordance concept to robotics, we find a wide range of methodologies that propose new formalisms based on different psychology theories. However, there are many open issues that jeopardise the basis of the affordance research such as: is the internal representation or direct perception the best way to represent affordance in robotics? What are the key elements of the robotics affordance process? How do we evaluate these processes? Is there a dataset to evaluate affordances and if not, what is the best course of action to collect it?
+
+Accordingly, the aim of this workshop is threefold:
+
+- To review the clear concept gap between affordance theory in psychology and its application in robotics through an overview of state-of-the-art literature in the research of affordance.
+- To discuss the evaluation standards for the different affordace tasks.
+- To agree on a methodology to follow to collect a dataset that serves as standard to evaluate affordance methodologies.
+
+## Previous editions
 
 - [IWCMAR @ R:SS 2018](https://afford.gitlab.io/rss-workshop/)
 - [IWCMAR 2 @ ICRA 2019](https://r1d1.github.io/iwcmar/)
 
-### Topics
+## Topics
 
-### Call for contributions
+ - Affordance learning
+ - Multimodal affordance learning
+ - Affordance perception and vision for affordances
+ - Perceptual learning and development
+ - Babbling and exploration
+ - Language and affordances
+ - Self-organisation of knowledge
+ - Deep learning of affordances
+ - Bayesian learning of affordances
+ - Concept learning
+ - Sensorimotor contingency theory
+ - Behaviour affording behaviour
+ - Actions and functions in object perception
+ - Brain-body-environment systems
+ - Agent-environment systems
+ - Self-supervised learning
+ - Sensing physical properties
+
+## Call for contributions
 
 Papers
 
@@ -21,20 +51,20 @@ Videos
 
 See competition details below
 
-### Important dates
+## Important dates
 
 The contribution process follows the following deadlines:
 
-- Submission Deadline: 03.05.2020
-- Notification of Acceptance: 13.05.2020
-- Camera ready submission: 22.05.2020
-- Workshop: 31.05.2020 or 04.06.2020, 8:30–17:30
+- **Submission Deadline:** 03.05.2020
+- **Notification of Acceptance:** 13.05.2020
+- **Camera ready submission:** 22.05.2020
+- **Workshop:** 31.05.2020 or 04.06.2020, 8:30–17:30
 
-### Special Issue & Competition
+## Special Issue & Competition
 
-### Invited Speakers
+## Invited Speakers
 
-### Program
+## Program
 
 You can find here a non-final schedule for the workshop.
 
@@ -55,24 +85,24 @@ You can find here a non-final schedule for the workshop.
 | 17:00       | Farewell           |
 
 
-### Papers
+## Papers
 
 The accepted papers are listed as follows:
 
   * [Title](./papers/link.pdf),
      *authors*
 
-### Program Committee
+## Program Committee
   * Reviewer 1 
   * Reviewer 2 
   * Reviewer ... 
   
     
-### Venue
+## Venue
 
 Please check out [http://icra2020.org/practical-information](http://icra2020.org/practical-information) as well as [http://icra2020.org/program](http://icra2020.org/program) for detailed information on the workshop's location. The workshop will be in room XXX?. 
    
-### Organizers
+## Organizers
 
  <!--
 
@@ -100,3 +130,4 @@ Please check out [http://icra2020.org/practical-information](http://icra2020.org
 	learning and ethics.
 -->
 
+</div>
