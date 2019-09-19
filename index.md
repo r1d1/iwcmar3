@@ -44,9 +44,24 @@ Accordingly, the aim of this workshop is threefold:
 
 ## Call for contributions
 
-Papers
+Participants are invited to submit contributions related to the aforementioned topics in one of the following categories:
 
-Videos
+    Extended abstract (maximum 2 pages in length)
+    Full paper (maximum 8 pages in length)
+
+Submissions must be in PDF following the ICRA style available from
+
+[ICRA style guidelines](https://www.ieee.org/conferences/publishing/templates.html)
+
+and uploaded via the Microsoft CMT conference management system at
+
+[Submission platform](https://cmt3.research.microsoft.com/IWCMAR2020).
+
+Video demonstrations that will be displayed during the poster session can be submitted to. Guidelines:
+
+- Maximum duration: 3 minutes.
+- File extension: mp4, mpg, mpeg
+- Maximum file size: 20MB
 
 See competition details below
 
@@ -61,7 +76,17 @@ The contribution process follows the following deadlines:
 
 ## Special Issue & Competition
 
+A Special Issue is currently active in [Frontiers in NeuroRobotics](https://www.frontiersin.org/research-topics/10337/computational-models-of-affordance-for-robotics). Prior to the submission deadline (October 13th), we invite contributions to this edition.
+
+A competition will be organized in conjunction with this edition of the workshop (2020). The details for this competition will be presented during a session at the workshop and publicly available [here](competition-details).
+
 ## Invited Speakers
+
+- [Tamim Asfour](page-asfour.html) (High Performance Humanoid Technologies, Karlsruhe Institute of Technology) [Confirmed]
+- Maya Cakmak [Confirmed]
+- Danica Kragic [Confirmed]
+- Erol Sahin [Invited]
+- Veronique Perdereau [Invited]
 
 ## Program
 
@@ -103,30 +128,23 @@ Please check out [http://icra2020.org/practical-information](http://icra2020.org
    
 ## Organizers
 
- <!--
-
-    Anh Nguyen
-
-    * [Erwan Renaudo](mailto:erwan.renaudo@uibk.ac.at) is a postdoctoral researcher at the University 
-	of Innsbruck. He completed his PhD degree in 2016 at Pierre and 
-        Marie Curie University where he worked on bio-inspired robotic 
-        architectures with ensemble reinforcement learning. His research 
-        interests focus on learning methods for autonomous robots. 
-        He is particularly interested in autonomous behavior generation, 
-        from action learning to coordination of habitual and goal-directed 
-        behaviors.
-
-    * Paola Ardon
-
-    * Eric Pairet
-
-    * [Raja Chatila](mailto:raja.chatila@isir.upmc.fr), IEEE Fellow, is Professor of Artificial 
-	Intelligence, Robotics and Ethics at Pierre and Marie Curie University in Paris, France. 
-	He is director of the SMART Laboratory of Excellence on Human-Machine Interactions and 
-	former director of the Institute of Intelligent Systems and Robotics. He contributed in 
-	several areas of Artificial Intelligence and autonomous and interactive Robotics along 
-	his career. His research interests currently focus on human-robot interaction, machine 
-	learning and ethics.
--->
+* [Anh Nguyen](mailto:a.nguyen@imperial.ac.uk) ...
+* [Erwan Renaudo](mailto:erwan.renaudo@uibk.ac.at) is a postdoctoral researcher at the University 
+of Innsbruck. He completed his PhD degree in 2016 at Pierre and 
+    Marie Curie University where he worked on bio-inspired robotic 
+    architectures with ensemble reinforcement learning. His research 
+    interests focus on learning methods for autonomous robots. 
+    He is particularly interested in autonomous behavior generation, 
+    from action learning to coordination of habitual and goal-directed 
+    behaviors.
+* [Paola Ardon](mailto:paola.ardon@ed.ac.uk)
+* [Eric Pairet](mailto:eric.pairet@ed.ac.uk)
+* [Raja Chatila](mailto:raja.chatila@isir.upmc.fr), IEEE Fellow, is Professor of Artificial 
+Intelligence, Robotics and Ethics at Pierre and Marie Curie University in Paris, France. 
+He is director of the SMART Laboratory of Excellence on Human-Machine Interactions and 
+former director of the Institute of Intelligent Systems and Robotics. He contributed in 
+several areas of Artificial Intelligence and autonomous and interactive Robotics along 
+his career. His research interests currently focus on human-robot interaction, machine 
+learning and ethics.
 
 </div>
