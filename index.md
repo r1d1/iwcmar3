@@ -46,8 +46,8 @@ Accordingly, the aim of this workshop is threefold:
 
 Participants are invited to submit contributions related to the aforementioned topics in one of the following categories:
 
-    Extended abstract (maximum 2 pages in length)
-    Full paper (maximum 8 pages in length)
+* Extended abstract (maximum 2 pages in length)
+* Full paper (maximum 8 pages in length)
 
 Submissions must be in PDF following the ICRA style available from
 
