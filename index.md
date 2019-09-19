@@ -90,7 +90,7 @@ A competition will be organized in conjunction with this edition of the workshop
 
 ## Program
 
-You can find here a non-final schedule for the workshop.
+You can find here a tentative schedule for the workshop.
 
 | Time | Activity |
 | --- | --- |
