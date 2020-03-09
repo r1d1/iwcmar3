@@ -4,7 +4,7 @@
 
 # [Proposal]<br />3rd International Workshop on<br />Computational Models of Affordance in Robotics
 
-### 31 May or 04 June 2020, ICRA 2020, Paris, France
+### 25 or 29 October 2020, IROS 2020, Las Vegas, USA
 
 ## Description
 
@@ -69,10 +69,10 @@ See competition details below
 
 The contribution process follows the following deadlines:
 
-- **Submission Deadline:** 03.05.2020
-- **Notification of Acceptance:** 13.05.2020
-- **Camera ready submission:** 22.05.2020
-- **Workshop:** 31.05.2020 or 04.06.2020, 8:30–17:30
+- **Submission Deadline:** 31.07.2020
+- **Notification of Acceptance:** 11.09.2020
+- **Camera ready submission:** 16.10.2020
+- **Workshop:** 25.10.2020 or 29.10.2020, 8:30–17:30
 
 ## Special Issue & Competition
 
