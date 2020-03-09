@@ -94,19 +94,19 @@ You can find here a tentative schedule for the workshop.
 
 | Time | Activity |
 | --- | --- |
-| 08:45-09:00 | Welcome |
-| 09:00-09:30 | **Invited Talk:**  |
-| 09:30-10:00 | **Invited Talk:**  |
-| 10:00-10:30 | Coffee break       |
-| 10:30-11:00 | **Invited Talk:**  |
-| 11:00-11:30 | **Invited Talk:**  |
-| 11:30-12:00 | **Invited Talk:**  | 
-| 12:00-12:30 | *Poster Spotlight* |
-| 12:30-13:30 | Lunch break        |
-| 13:30-15:00 | **Poster session & discussions**     |
-| 15:00-15:30 | Coffee break       |
-| 15:30-17:00 | **Plenary discussion** |
-| 17:00       | Farewell           |
+| 09:00-09:15 | Welcome |
+| 09:15-10:00 | **Talk 1:**  |
+| 10:00-10:30 | Coffee break |
+| 10:30-11:15 | **Talk 2:**  |
+| 11:15-12:00 | **Talk 3:**  |
+| 12:00-13:00 | Lunch break        |
+| 13:00-13:15 | *Poster Spotlight*  |
+| 13:15-14:30 | **Poster session**     |
+| 14:30-15:00 | Coffee break       |
+| 15:00-15:45 | **Talk 4:**  | 
+| 15:45-16:30 | **Talk 5:**  | 
+| 16:30-17:30 | **Panel discussion** |
+| 17:30       | Farewell           |
 
 
 ## Papers
