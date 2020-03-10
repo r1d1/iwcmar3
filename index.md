@@ -85,8 +85,9 @@ A competition will be organized in conjunction with this edition of the workshop
 - [Tamim Asfour](page-asfour.html) (High Performance Humanoid Technologies, Karlsruhe Institute of Technology) [Confirmed]
 - Maya Cakmak [Confirmed]
 - Danica Kragic [Confirmed]
-- Erol Sahin [Invited]
-- Veronique Perdereau [Invited]
+- Erol Sahin [Confirmed]
+- Michael Turvey [Invited]
+- Tony Chemero [Invited]
 
 ## Program
 
